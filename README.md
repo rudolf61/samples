@@ -1,6 +1,5 @@
 # samples
 Some samples for my colleagues
-These examples have been made for my colleagues. 
 
 In my spare time I love to code and try out some concepts. Those concepts are not new, 
 but they are simple enough to be understood directly.
