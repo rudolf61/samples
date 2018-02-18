@@ -16,7 +16,12 @@ import java.util.Objects;
 import java.util.function.Function;
 
 /**
- *
+ * (c) 2018, Ruud de Grijs
+ * 
+ * Just an idea how you can convert a ResultSet to a Map. It should not be so difficult to make a similar mapping to an object.
+ * <p>
+ * Personally I'm not such a big fan of these mappings. Before you know it, you end up with a slow full blown ORM :).
+ * <p>
  * Helper class for converting ResultSet
  * 
  * @author RUUD
