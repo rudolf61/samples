@@ -12,9 +12,11 @@ import java.util.Properties;
 import static java.lang.Thread.currentThread;
 
 /**
+ * (c) 2018, Ruud de Grijs
+ * 
  * Singleton configuration. There is only one instance on the current main
  * thread
- *
+ * <p>
  * This class is threadsafe. It is loaded from configuration files,
  * config.properties. The property names indicate the type. This type is used to
  * instantiate and store every property.

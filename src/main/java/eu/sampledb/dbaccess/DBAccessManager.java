@@ -12,6 +12,10 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 /**
+ * (c) 2018, Ruud de Grijs
+ * 
+ * <p>
+ * Note: It is not such a good idea that ProcessDatabaseContext returns SQLException if you want to have a pure function.
  *
  * @author RUUD
  */

@@ -13,6 +13,8 @@ import java.sql.Statement;
 import java.util.function.Consumer;
 
 /**
+ * (c) 2018, Ruud de Grijs
+ * 
  * Wrapper for connection. Purpose is to keep the responsibilty of cleaning up within this module.
  * 
  * 

@@ -13,6 +13,10 @@ import java.sql.SQLException;
 
 
 /**
+ * (c) 2018, Ruud de Grijs
+ * 
+ * Better turn it into a proper datasource. In that case you can also use DBCP for example...
+ * 
  *
  * @author RUUD
  */

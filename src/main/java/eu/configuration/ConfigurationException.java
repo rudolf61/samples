@@ -6,7 +6,8 @@
 package eu.configuration;
 
 /**
- *
+ * Just an exception to circimvent those annoying checked exceptions ..
+ * <p>
  * @author RUUD
  */
 public class ConfigurationException extends Error {

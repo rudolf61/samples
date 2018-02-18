@@ -13,6 +13,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
+ * (c) 2018, Ruud de Grijs
  *
  * @author RUUD
  */

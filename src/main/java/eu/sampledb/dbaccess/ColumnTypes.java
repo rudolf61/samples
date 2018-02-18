@@ -6,6 +6,10 @@
 package eu.sampledb.dbaccess;
 
 /**
+ * (c) 2018, Ruud de Grijs
+ * 
+ * Supported types configuration file.
+ * 
  *
  * @author RUUD
  */
