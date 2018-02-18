@@ -6,7 +6,6 @@
 package eu.sampledb.dbaccess;
 
 import eu.configuration.AppConfig;
-import eu.ratemysubject.webhelper.dbaccess.DatabaseContext;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
